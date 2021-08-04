@@ -1,2 +1,2 @@
 # AES-masking-synthesizable
-Fully synthesizable security extension libraryfor AES cryptographic algorithms
+Fully synthesizable security extension library for AES side-channel masking. Documentation available. 
